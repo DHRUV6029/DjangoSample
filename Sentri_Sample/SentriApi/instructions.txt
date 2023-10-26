@@ -1,0 +1,20 @@
+Instructions to Run
+
+Setup a virtual env and install dependencies
+Run Pip install -r requirements.txt
+
+
+
+1. Clone the repo 
+2. Cd to SentriApi Folder
+3. Run python manage.py runserver 8080
+
+
+Link to Swagger Docs http://127.0.0.1:8080/
+Link to Admin Panel http://127.0.0.1:8080/admin
+
+
+
+Tech used - Django , Django rest framework , Sqlite Db , Swagger.
+
+
